@@ -1,2 +1,2 @@
 # nikhil.demo
-This us my first repository
+This is my first repository
